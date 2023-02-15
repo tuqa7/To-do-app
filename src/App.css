@@ -1,0 +1,22 @@
+.App {
+
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.appbody {
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+
+}
+
+.popup{
+  position: absolute;
+  background-color: red;
+}
